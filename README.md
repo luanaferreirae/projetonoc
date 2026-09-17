@@ -7,10 +7,10 @@
 
 | Campo | Exemplo |
 |---|---|
-| Aluno(a) / Grupo | João da Silva — Grupo Exemplo |
+| Aluno(a) / Grupo | LUANA FERREIRA DE ALMEIDA|
 | Turma | Defesa Cibernética — 2026 |
 | Professor | Frank Philson |
-| Data | 14/09/2026 |
+| Data | 17/09/2026 |
 | Rede do laboratório | `10.20.30.0/24` |
 
 ## Objetivo
