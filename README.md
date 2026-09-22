@@ -169,6 +169,11 @@ No `SRV-LINUX01`, SSH e Apache foram instalados, habilitados e testados local e 
 ![Fase 04 — Preparação Linux](imagens2/fase4-grafana2.png)
 ![Fase 04 — Preparação Linux](imagens2/fase4-linux.png)
 ![Fase 04 — Preparação Linux](imagens2/fase4-zabbix.png)
+![Fase 04 — Preparação Linux](imagens2/apachegrafana.png)
+![Fase 04 — Preparação Linux](imagens2/apachezabbix.png)
+![Fase 04 — Preparação Linux](imagens2/apachelinux.png)
+
+
 
 ---
 
