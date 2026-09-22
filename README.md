@@ -1,4 +1,4 @@
-# Projeto Operação NOC — Repositório Modelo
+# Projeto Operação NOC — LUANA FERREIRA DE ALMEIDA
 
 > **Investigação, Monitoramento e Observabilidade de Redes**  
 > Ubuntu Server + Redes + Wireshark + Zabbix + Grafana
@@ -114,7 +114,9 @@ Os três servidores receberam IP estático e foram validados com `ip -br addr`, 
 - ping entre VMs
 - resolução DNS
 
-
+![Fase 03 – VMs e sistemas operacionais](imagens2/ip-router-geral-grafana.png)
+![Fase 03 – VMs e sistemas operacionais](imagens2/ip-router-geral-zabbix.png)
+![Fase 03 – VMs e sistemas operacionais](imagens2/ip-router-geral-linux.png)
 
 ---
 
