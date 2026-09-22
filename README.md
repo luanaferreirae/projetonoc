@@ -139,7 +139,10 @@ Os hostnames foram padronizados, os pacotes foram atualizados e o fuso horário 
 - timedatectl
 - apt update/upgrade
 
-![Fase 04 — Preparação Linux](imagens/fase04-preparacao-linux.png)
+![Fase 04 — Preparação Linux](imagens2/ip-router-geral-grafana.png)
+![Fase 04 — Preparação Linux](imagens2/ip-router-geral-linux.png)
+![Fase 04 — Preparação Linux](imagens2/ip-router-geral-zabbix.png)
+
 
 ---
 
@@ -162,7 +165,10 @@ No `SRV-LINUX01`, SSH e Apache foram instalados, habilitados e testados local e 
 - ss -lntp
 - curl
 
-![Fase 05 — Serviços SSH e HTTP](imagens/fase05-servicos.png)
+![Fase 04 — Preparação Linux](imagens2/fase4-grafana.png)
+![Fase 04 — Preparação Linux](imagens2/fase4-grafana2.png)
+![Fase 04 — Preparação Linux](imagens2/fase4-linux.png)
+![Fase 04 — Preparação Linux](imagens2/fase4-zabbix.png)
 
 ---
 
