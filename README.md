@@ -71,6 +71,7 @@ Foi escolhida a rede privada `10.20.30.0/24`, evitando sobreposição com outras
 
 ![Fase 01 — Planejamento e endereçamento](imagens1/fase01-planejamento.png)
 
+
 ---
 
 ## Fase 02 — VMs e sistemas operacionais
