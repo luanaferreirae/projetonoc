@@ -89,9 +89,10 @@ Foram criadas três VMs Ubuntu Server 24.04 com 4 vCPU, 16 GB de RAM e 100 GB de
 - CPU/RAM/disco
 - Sistema operacional instalado
 
-![Fase 02 — VMs e sistemas operacionais](imagens/srv_grafana.png)
-![Fase 02 — VMs e sistemas operacionais](imagens/SRV-ZABBlX-LUANA.png)
-![Fase 02 — VMs e sistemas operacionais](imagens/SRV_LINUX_LUANA.png)
+![Fase 02 – VMs e sistemas operacionais](imagens2/srv_grafana.png)
+![Fase 02 – VMs e sistemas operacionais](imagens2/SRV-ZABBIX-LUANA.png)
+![Fase 02 – VMs e sistemas operacionais](imagens2/SRV_LINUX_LUANA.png)
+
 ---
 
 ## Fase 03 — IP estático e conectividade
